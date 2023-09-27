@@ -13,7 +13,7 @@ export default function Document() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="og:title" />
         <meta property="og:description" content="og:description" />
-        <meta property="og:image" content="https://ik.imagekit.io/vadimfacebooktest/a237fc26-287b-460c-afab-0e69adc81543.jpeg?tr=w-1200" />
+        <meta property="og:image" content="https://ik.imagekit.io/vadimfacebooktest/a237fc26-287b-460c-afab-0e69adc81543.jpeg?tr=w-1920,h-1080" />
         <meta property="og:image:width" content="1200" />
       </Head>
       <body>
