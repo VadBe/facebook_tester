@@ -9,6 +9,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
+        <meta name="facebook-domain-verification" content="7qoi7pzstxcgc2tuelu71cx569y3ez" />
         <meta property="og:url" content={process.env.NEXT_PUBLIC_SITE_URL} />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="og:title" />
